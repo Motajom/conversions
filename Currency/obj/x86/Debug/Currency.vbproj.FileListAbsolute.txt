@@ -1,0 +1,13 @@
+c:\users\opeyemi\documents\visual studio 2010\Projects\Currency\Currency\bin\Debug\Currency.exe
+c:\users\opeyemi\documents\visual studio 2010\Projects\Currency\Currency\bin\Debug\Currency.pdb
+c:\users\opeyemi\documents\visual studio 2010\Projects\Currency\Currency\bin\Debug\Currency.xml
+c:\users\opeyemi\documents\visual studio 2010\Projects\Currency\Currency\obj\x86\Debug\Currency.Form1.resources
+c:\users\opeyemi\documents\visual studio 2010\Projects\Currency\Currency\obj\x86\Debug\Currency.Resources.resources
+c:\users\opeyemi\documents\visual studio 2010\Projects\Currency\Currency\obj\x86\Debug\Currency.vbproj.GenerateResource.Cache
+c:\users\opeyemi\documents\visual studio 2010\Projects\Currency\Currency\obj\x86\Debug\Currency.exe
+c:\users\opeyemi\documents\visual studio 2010\Projects\Currency\Currency\obj\x86\Debug\Currency.xml
+c:\users\opeyemi\documents\visual studio 2010\Projects\Currency\Currency\obj\x86\Debug\Currency.pdb
+c:\users\opeyemi\documents\visual studio 2010\Projects\Currency\Currency\obj\x86\Debug\Currency.Form2.resources
+C:\Users\opeyemi\Documents\Visual Studio 2010\Projects\Currency\Currency\obj\x86\Debug\Currency.Form3.resources
+C:\Users\opeyemi\Documents\Visual Studio 2010\Projects\Currency\Currency\obj\x86\Debug\Currency.Form4.resources
+C:\Users\opeyemi\Documents\Visual Studio 2010\Projects\Currency\Currency\obj\x86\Debug\Currency.Form5.resources
